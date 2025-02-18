@@ -35,6 +35,7 @@ To use this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/password-generator.git
+```
 
 ## 📝 License
 This project is licensed under the **MIT License**.

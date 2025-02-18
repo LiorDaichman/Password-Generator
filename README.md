@@ -36,7 +36,9 @@ To use this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/LiorDaichman/Password-Generator.git
+cd Guess-Number-Game
 ```
+2. Click on Password Generator.html
 
 ## 📝 License
 This project is licensed under the **MIT License**.

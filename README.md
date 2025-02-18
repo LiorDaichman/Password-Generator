@@ -5,7 +5,7 @@ This is a simple and customizable Password Generator and Strength Checker. It al
 
 ## ✨ Features
 
-- ✅ **Password Generation**: Generate random passwords with customizable settings (length, use of letters, numbers, and symbols).
+- ✅ **Password Generation**: Generate random passwords with customizable settings.
 - ✅ **Password Strength Check**: Check the strength of any password entered by the user.
 - ✅ **Dark Mode**: Toggle between light and dark modes with a button.
 - ✅ **Advanced Options**: Customize allowed letters, numbers, and symbols for password generation.
@@ -35,7 +35,7 @@ To use this project locally, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/LiorDaichman/Password-Generator.git
 ```
 
 ## 📝 License
